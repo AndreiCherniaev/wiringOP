@@ -7,11 +7,8 @@ $ git clone https://github.com/orangepi-xunlong/wiringOP.git
 ```
 
 ## How to build wiringOP
+https://habr.com/ru/post/551342/
 
-```
-cd wiringOP
-./build clean
-./build 
 All available boards:
    0. OrangePi_R1
    1. OrangePi_ZERO
