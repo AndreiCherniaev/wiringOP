@@ -10,3 +10,4 @@ debian-template/wiringpi-*.deb
 gpio/gpio
 examples/speed
 examples/blink
+*.user
