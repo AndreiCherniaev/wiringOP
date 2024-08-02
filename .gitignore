@@ -1,0 +1,12 @@
+build-host_debug/
+build-host/
+build-*/
+*.o
+*.so
+lib*.so.*
+*~
+debian-template/wiringPi
+debian-template/wiringpi-*.deb
+gpio/gpio
+examples/speed
+examples/blink
